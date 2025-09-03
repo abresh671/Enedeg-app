@@ -32,21 +32,7 @@ Your personal productivity, fitness, and growth companion 🚀
 ---
 
 ### 📂 Project Structure
-
-Enedeg/
-├── assets/              # Images, icons, and other static files
-├── lib/                 # Main source code
-│   ├── components/      # Reusable UI components
-│   ├── screens/         # App screens (Dashboard, Notes, To-Do, Fitness, etc.)
-│   ├── services/        # APIs, authentication, and Firebase integration
-│   └── utils/           # Helper functions and constants
-├── test/                # Unit and integration tests
-├── README.md            # Project documentation
-└── package.json         # Dependencies and scripts (if React Native)
-
-
----
-
+```
 ### 🚀 Getting Started
 
 #### 1. Clone the Repository
@@ -54,71 +40,72 @@ Enedeg/
 ```bash
 git clone [https://github.com/your-username/Enedeg.git](https://github.com/your-username/Enedeg.git)
 cd Enedeg
-2. Install Dependencies
-For Flutter:
+```
 
-Bash
+#### 2. Install Dependencies
+### For Flutter:
+
+```Bash
 
 flutter pub get
-For React Native:
+```
+### For React Native:
 
-Bash
+```Bash
 
 npm install
 # or
 yarn install
-3. Run the App
-For Flutter:
+```
+#### 3. Run the App
+### For Flutter:
 
-Bash
+```Bash
 
 flutter run
-For React Native:
+```
+### For React Native:
 
-Bash
+```Bash
 
 npm start
-📸 Screenshots (Coming Soon)
-Dashboard
+```
+### 📸 Screenshots (Coming Soon)
+<ul>
+<li>Dashboard
+<li>To-Do List
+<li>Workout Plans
+</ul>
 
-To-Do List
+### 📌 Roadmap
+<ul>
+<li>✅ Set up project structure
+<li>✅ To-do list & reminders
+<li>⬜ Notes module
+<li>⬜ Workout module
+<li>⬜ Screentime control
+<li>⬜ Gamification & punishment system
+<li>⬜ Keyword blocking
+<li>⬜ Deploy to Play Store & App Store
+</ul>
 
-Workout Plans
-
-📌 Roadmap
-✅ Set up project structure
-
-✅ To-do list & reminders
-
-⬜ Notes module
-
-⬜ Workout module
-
-⬜ Screentime control
-
-⬜ Gamification & punishment system
-
-⬜ Keyword blocking
-
-⬜ Deploy to Play Store & App Store
-
-🤝 Contributing
+#### 🤝 Contributing
 Contributions are welcome! 🎉
+<ol>
+<li>Fork the project
+<li>Create a new branch
+<li>Make your changes
+<li>Submit a pull request
+</ol>
 
-Fork the project
-
-Create a new branch
-
-Make your changes
-
-Submit a pull request
+---
 
 📜 License
 This project is open-source and available under the MIT License.
-
+---
 📧 Contact
 Author: Abreham Addis
 
-Email: your-email@example.com
+Email: ababrehamaddisdaba@gmail.com
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/abresh671
